@@ -20,4 +20,9 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BillyGym.Domain\BillyGYM.Domain.csproj" />
+    <ProjectReference Include="..\BillyGYM\BillyGYM.csproj" />
+  </ItemGroup>
+
 </Project>

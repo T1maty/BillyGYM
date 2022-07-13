@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillyGYM", "BillyGYM\BillyGYM.csproj", "{DC30C3E6-C0D0-4623-905C-C96ECE27FAA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillyGYM", "BillyGYM\BillyGYM.csproj", "{DC30C3E6-C0D0-4623-905C-C96ECE27FAA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillyGym.Domain", "BillyGym.Domain\BillyGym.Domain.csproj", "{E9D19D32-C9B2-48C4-90D9-1FF7069DC692}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillyGYM.Domain", "BillyGym.Domain\BillyGYM.Domain.csproj", "{E9D19D32-C9B2-48C4-90D9-1FF7069DC692}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillyGYM.Infrastucture", "BillyGYM.Infrastucture\BillyGYM.Infrastucture.csproj", "{6808A45D-0E02-4863-A768-C830711F25CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillyGYM.Infrastucture", "BillyGYM.Infrastucture\BillyGYM.Infrastucture.csproj", "{6808A45D-0E02-4863-A768-C830711F25CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilliGYM.Service", "BilliGYM.Service\BilliGYM.Service.csproj", "{8AEE966B-D72D-4C71-BBE8-598202004214}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BilliGYM.Service", "BilliGYM.Service\BilliGYM.Service.csproj", "{8AEE966B-D72D-4C71-BBE8-598202004214}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
