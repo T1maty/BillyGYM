@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillyGYM.Domain", "BillyGym
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillyGYM.Infrastucture", "BillyGYM.Infrastucture\BillyGYM.Infrastucture.csproj", "{6808A45D-0E02-4863-A768-C830711F25CD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BilliGYM.Service", "BilliGYM.Service\BilliGYM.Service.csproj", "{8AEE966B-D72D-4C71-BBE8-598202004214}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillyGYM.Service", "BillyGYM.Service\BillyGYM.Service.csproj", "{8AEE966B-D72D-4C71-BBE8-598202004214}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

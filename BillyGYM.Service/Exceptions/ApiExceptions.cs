@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BilliGYM.Service.Exceptions
+namespace BillyGYM.Service.Exceptions
 {
     internal class ApiException : Exception
     {
